@@ -1,0 +1,16 @@
+{
+  "name": "inydev",
+  "version": "1.0.0",
+  "description": "landingpage to inydev consulting",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.1"
+  }
+  
+}
