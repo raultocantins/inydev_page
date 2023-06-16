@@ -194,6 +194,15 @@ body {
   font-weight: bold;
   color: var(--secondaryColor);
 }
+.section3 #dot {
+  color: var(--primaryColor);
+}
+.section3 .video {
+  position: absolute;
+  bottom: -5px;
+  height: 450px;
+  background-color: red;
+}
 
 .section4 {
   position: relative;
@@ -210,6 +219,7 @@ body {
   padding: 10px;
   height: 70px;
 }
+
 .section5 {
   position: relative;
   height: 100vh;
